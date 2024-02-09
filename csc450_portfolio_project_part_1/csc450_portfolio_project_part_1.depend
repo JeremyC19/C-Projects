@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693789952 source:c:\users\gcor7\onedrive\desktop\csc450_portfolio_project_part_1\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+
